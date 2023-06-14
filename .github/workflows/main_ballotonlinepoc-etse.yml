@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'BallotOnlinePOC-etse'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD40D72B1F2642D4B2526DB89C23D0D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A3929430C3B454794F485847F6CC801 }}
           package: .
